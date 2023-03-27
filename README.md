@@ -2,6 +2,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi%2C+I+am+Abdolaziz+Salimi)](https://git.io/typing-svg)
 
 
+![Abdolaziz's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdolazizsalimi&show_icons=true&theme=default&bg_color=00000000)
+
 
 
 <h3 align="left">Languages and Tools:</h3> 
